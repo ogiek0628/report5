@@ -1,4 +1,4 @@
-public class report5 {
+public class report5_1_2 {
 
     public static void main(String[] args){
 
